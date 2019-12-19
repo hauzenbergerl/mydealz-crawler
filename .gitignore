@@ -1,2 +1,9 @@
+#dev files
 *old*.py
 *test*.py
+
+#vs code files
+settings.json
+
+#pycache
+__pycache__/
